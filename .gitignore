@@ -1,4 +1,5 @@
 gnome-shell-extension-*-any.pkg.tar.xz
+gnome-shell-extension-*src.tar.gz
 gnome-shell-extension-*/
 pkg/
 src/
